@@ -1,2 +1,1 @@
-# PathForge-AI
-a goal-setting and milestone tracking app for tech learners
+# PathForge AI UI Kit\nOpen index.html or serve locally.
