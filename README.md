@@ -10,6 +10,9 @@ PathForge AI is designed to simplify career planning in technology by providing 
 The application features a modern glassmorphism-based interface, responsive design, domain search functionality, and interactive roadmap visualization.
 
 ---
+## 🌟 Preview
+<img width="1918" height="888" alt="Screenshot 2026-06-13 143206" src="https://github.com/user-attachments/assets/aa9ab188-419c-4eab-a70a-97cc66f7ea94" />
+<img width="1900" height="887" alt="Screenshot 2026-06-13 143244" src="https://github.com/user-attachments/assets/f8049e00-8e65-4912-9675-acd988c68eea" />
 
 ## ✨ Features
 
